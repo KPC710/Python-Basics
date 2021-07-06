@@ -1,4 +1,4 @@
-# In pyhton, function is a group of related statements that perform a specific task.
+# In Python, function is a group of related statements that perform a specific task.
 
 # function declaration
 def function_demo():
