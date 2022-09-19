@@ -49,7 +49,7 @@ print(data)  # o/p --> [20, 15.5, 4, 'TEAM', 'zucitech', 'Employees']
 
 ###########################    TUPLE DATA TYPE    ###########################
 
-# List and Tuple does the same thing ,But only difference is list data type is not mutable and tuple is immutable.
+# List and Tuple does the same thing ,But only difference is list data type is mutable and tuple is immutable.
 
 value = (1, 6.5, "chethan", 20)
 print(value)                          # o/p --> (1, 6.5, 'chethan', 20)
